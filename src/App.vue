@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome To This App"/>
+  <HelloWorld msg="Welcome"/>
 </template>
 
 <script>
